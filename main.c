@@ -118,7 +118,7 @@ int main(void)
     }
 
     printf("\x1b[2J\x1b[;H");
-    printf("Hello from the RDK3!\r\n");
+    printf("Hello World, I am the RDK3!\r\n");
     printf("Press the BTN1 Button or any key to change the blinking LEDs\r\n");
 
     for (;;)
